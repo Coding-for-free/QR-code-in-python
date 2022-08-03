@@ -9,4 +9,4 @@ url = pyqrcode.create(s)
   
 url.svg("qr.svg", scale = 8)
   
-url.png('qr.png', scale = 6)
+url.png('qr.png', scale = 8)
